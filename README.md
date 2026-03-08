@@ -1,6 +1,9 @@
-# <img src="screenshots/icon.png" alt="DevBox Spring Pro" width="45" align="center"/> DevBox Spring Pro
+# DevBox Spring Pro
 
 <div align="center">
+
+![Cover](screenshots/icon.png)
+
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.3-green?style=for-the-badge&logo=spring)
@@ -187,11 +190,27 @@ dockerize-project
 
 ---
 
-### 1️⃣3️⃣ Test — Ajout d'un étudiant
+### 1️⃣3️⃣ Test — Formulaire d'ajout d'un étudiant
 
-> Démonstration du formulaire d'ajout d'un étudiant. Les données sont enregistrées dans PostgreSQL et apparaissent immédiatement dans le tableau.
+> Démonstration du formulaire d'ajout d'un étudiant. Remplissez les champs nom, prénom, email, filière et niveau — puis validez.
 
-![Ajout étudiant](screenshots/ajout-etudiant.png)
+![Ajout étudiant formulaire](screenshots/ajout-etudiant.png)
+
+---
+
+### 1️⃣4️⃣ Résultat — Étudiant ajouté avec succès
+
+> L'étudiant apparaît immédiatement dans le tableau après soumission du formulaire. Les données sont persistées dans PostgreSQL en temps réel.
+
+![Résultat ajout étudiant](screenshots/ajout-etudiant-resultat.png)
+
+---
+
+## 🖼️ L'AMI DevBox Spring Pro sur AWS
+
+> Voici l'AMI disponible dans la console AWS EC2. Elle contient l'environnement complet prêt à être lancé en quelques clics.
+
+![AMI AWS](screenshots/ami-aws.png)
 
 ---
 
@@ -293,13 +312,23 @@ dockerize-project
 
 ---
 
-## 📄 Licence
+## 📄 Droits d'auteur
 
-Ce projet est sous licence MIT — libre d'utilisation et de modification.
+```
+© 2026 Fahd Krachel — Tous droits réservés.
+
+Ce projet est partagé à titre de démonstration uniquement.
+Toute reproduction, distribution, modification ou utilisation
+commerciale est strictement interdite sans autorisation écrite
+de l'auteur.
+```
 
 ---
 
 <div align="center">
+
+![Cover](screenshots/icon.png)
+
 
 ⭐ **Si ce projet vous a aidé, donnez-lui une étoile sur GitHub !** ⭐
 
