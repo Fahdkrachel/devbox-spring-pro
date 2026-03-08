@@ -90,7 +90,7 @@ Si vous n'êtes pas familier avec AWS, pas de panique !
 
 > Ouvrez **Remote Desktop Connection** (mstsc) sur Windows, entrez l'IP de votre instance et connectez-vous en quelques secondes. Aucune installation requise côté client.
 
-![Connexion RDP](screenshots/rdp-connexion.png)
+![Connexion RDP](screenshots/rdp-connexion.jpeg)
 
 ---
 
@@ -98,7 +98,7 @@ Si vous n'êtes pas familier avec AWS, pas de panique !
 
 > Une fois connecté, vous accédez à un bureau Ubuntu XFCE4 complet avec tous les raccourcis nécessaires : IntelliJ IDEA, Terminal, et vos projets directement accessibles sur le bureau.
 
-![Bureau RDP](screenshots/bureau-rdp.png)
+![Bureau RDP](screenshots/bureau-rdp.jpeg)
 
 ---
 
@@ -110,7 +110,7 @@ Si vous n'êtes pas familier avec AWS, pas de panique !
 create-spring-project
 ```
 
-![Script create-spring-project](screenshots/create-spring-project.png)
+![Script create-spring-project](screenshots/create-spring-project.jpeg)
 
 ---
 
@@ -118,7 +118,7 @@ create-spring-project
 
 > Le projet généré s'ouvre directement dans IntelliJ IDEA. La structure complète est visible : entités, repositories, services, controllers et templates — tout est organisé professionnellement.
 
-![Projet IntelliJ](screenshots/intellij-projet.png)
+![Projet IntelliJ](screenshots/intellij-projet.jpeg)
 
 ---
 
