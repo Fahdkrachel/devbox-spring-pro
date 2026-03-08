@@ -126,7 +126,7 @@ create-spring-project
 
 > IntelliJ détecte automatiquement le `pom.xml` et télécharge toutes les dépendances Spring Boot nécessaires. Zéro configuration manuelle requise.
 
-![Maven auto-config](screenshots/maven-dependances.png)
+![Maven auto-config](screenshots/maven-dependances.jpeg)
 
 ---
 
@@ -134,7 +134,7 @@ create-spring-project
 
 > Exemple d'application complète développée avec DevBox Spring Pro : une API REST + interface web Thymeleaf pour la gestion des étudiants, connectée à PostgreSQL avec des opérations CRUD complètes.
 
-![Gestion Etudiants](screenshots/gestion-etudiants.png)
+![Gestion Etudiants](screenshots/gestion-etudiants.jpeg)
 
 ---
 
@@ -210,7 +210,7 @@ dockerize-project
 
 > Voici l'AMI disponible dans la console AWS EC2. Elle contient l'environnement complet prêt à être lancé en quelques clics.
 
-![AMI AWS](screenshots/ami-aws.png)
+![AMI AWS](screenshots/ami-aws.jpeg)
 
 ---
 
@@ -303,10 +303,10 @@ dockerize-project
 ## 👨‍💻 Auteur
 
 **Fahd Krachel**
-Étudiant en Informatique — Université Hassan II Casablanca
+Aspiring Backend & Cloud Engineer | Java EE • Spring Boot • AWS | Cofondateur N7GD
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahd%20Krachel-blue?style=flat&logo=linkedin)](https://linkedin.com/in/fahd-krachel)
-[![GitHub](https://img.shields.io/badge/GitHub-fahd--krachel-black?style=flat&logo=github)](https://github.com/fahd-krachel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahd%20Krachel-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fahd-krachel-6017042aa)
+[![GitHub](https://img.shields.io/badge/GitHub-Fahd--Krachel-black?style=flat&logo=github)](https://github.com/FahdKrachel)
 
 📧 fahd.krachel@etu.univh2c.ma
 
